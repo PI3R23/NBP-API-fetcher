@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\simplecurrencyrestapplication\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|solutionrelative:simplecurrencyrestapplication\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\simplecurrencyrestapplication\\googlesheetsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|solutionrelative:simplecurrencyrestapplication\\googlesheetsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\simplecurrencyrestapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|solutionrelative:simplecurrencyrestapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|g:\\csharp projekty\\simplecurrencyrestapplication\\simplecurrencyrestapplication\\simplecurrencyrestapplication\\endpointhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479DF258-B6B8-45BF-9A08-4C4DECFC71F7}|SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication.csproj|solutionrelative:simplecurrencyrestapplication\\endpointhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyModel.cs",
+              "DocumentMoniker": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\CurrencyModel.cs",
+              "RelativeDocumentMoniker": "SimpleCurrencyRESTApplication\\CurrencyModel.cs",
+              "ToolTip": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\CurrencyModel.cs",
+              "RelativeToolTip": "SimpleCurrencyRESTApplication\\CurrencyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:58:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleSheetsAPI.cs",
+              "DocumentMoniker": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\GoogleSheetsAPI.cs",
+              "RelativeDocumentMoniker": "SimpleCurrencyRESTApplication\\GoogleSheetsAPI.cs",
+              "ToolTip": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\GoogleSheetsAPI.cs",
+              "RelativeToolTip": "SimpleCurrencyRESTApplication\\GoogleSheetsAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:31:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCurrencyRESTApplication\\Program.cs",
+              "ToolTip": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\Program.cs",
+              "RelativeToolTip": "SimpleCurrencyRESTApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:02:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndpointHandler.cs",
+              "DocumentMoniker": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\EndpointHandler.cs",
+              "RelativeDocumentMoniker": "SimpleCurrencyRESTApplication\\EndpointHandler.cs",
+              "ToolTip": "G:\\Csharp projekty\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\SimpleCurrencyRESTApplication\\EndpointHandler.cs",
+              "RelativeToolTip": "SimpleCurrencyRESTApplication\\EndpointHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:34:15.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
